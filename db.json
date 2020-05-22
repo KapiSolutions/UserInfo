@@ -1,3 +1,3 @@
-{"patron":{"barcode":"90000001","status":"ACTIVE","canBorrow":false,"rentedPositions":[{"barcode":"07009158","author":"Łopatkowa, Maria","title":"O sztuce wychowywania","dateFrom":"2020-01-04","dateTo":"2020-02-03"},
+{"patron":{"barcode":"90000001","status":"ACTIVE","canBorrow":true,"rentedPositions":[{"barcode":"07009158","author":"Łopatkowa, Maria","title":"O sztuce wychowywania","dateFrom":"2020-01-04","dateTo":"2020-02-03"},
                                                                                       {"barcode":"07005208","author":"Krassowska, Anna","title":"O życzliwość dla świata i ludzi","dateFrom":"2019-01-25","dateTo":"2019-02-24"},
                                                                                     {"barcode":"07005208","author":"Krassowska, Anna","title":"O życzliwość dla świata i ludzi","dateFrom":"2019-01-25","dateTo":"2019-02-24"}]}}
